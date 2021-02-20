@@ -1,16 +1,22 @@
-MIT License
+MIT License-Modified
 
 Copyright (c) 2021 Michael Wynn Ostrowski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+to use, copy, modify, merge, publish and distribute copies of the Software, 
+and to permit persons to whom the Software is furnished to do so, subject to 
+the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the Software. This is to be located in the
+footer of the application. Removal of this Copyright will violate your license.
+
+Lenders may use this technology of their in house panel manegment. You may also
+operate an AMC with this technology. No technology fee can be collected for the
+direct use of this software.You CAN NOT operate a technology portal where the
+service is this software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
